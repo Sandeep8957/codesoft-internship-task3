@@ -1,0 +1,14 @@
+.text-align{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
